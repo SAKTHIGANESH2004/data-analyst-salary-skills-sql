@@ -105,7 +105,7 @@ LIMIT 10;
 
 **Results:**
 
-![Average Salary Distribution](./images/salary_distribution_skyblue.png)
+![Average Salary Distribution](salary_distribution_skyblue.png)
 
 **Key Findings:**
 - The highest-paying "Data Analyst" role reached **~$650,000/year** — an outlier driven by seniority and equity compensation
@@ -150,7 +150,7 @@ ORDER BY
 
 **Results:**
 
-![Skill Count for Top 10 Paying Data Analyst Jobs in 2023](./images/skill_count_chart_skyblue.png)
+![Skill Count for Top 10 Paying Data Analyst Jobs in 2023] (skill_count_chart_skyblue.png)
 
 **Key Findings:**
 
