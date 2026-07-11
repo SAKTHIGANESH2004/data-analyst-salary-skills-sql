@@ -150,7 +150,7 @@ ORDER BY
 
 **Results:**
 
-![Skill Count for Top 10 Paying Data Analyst Jobs in 2023] (skill_count_chart_skyblue.png)
+![Skill Count for Top 10 Paying Data Analyst Jobs in 2023](skill_count_chart_skyblue.png)
 
 **Key Findings:**
 
