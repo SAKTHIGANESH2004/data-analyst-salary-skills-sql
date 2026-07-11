@@ -105,7 +105,7 @@ LIMIT 10;
 
 **Results:**
 
-![Average Salary Distribution](salary_distribution_skyblue.png)
+![Average Salary Distribution](./salary_distribution_skyblue.png)
 
 **Key Findings:**
 - The highest-paying "Data Analyst" role reached **~$650,000/year** — an outlier driven by seniority and equity compensation
@@ -149,7 +149,7 @@ ORDER BY
 ```
 
 **Results:**
-![Skill Count Chart](skill_count_chart_skyblue.png)
+![Skill Count Chart](./skill_count_chart_skyblue.png)
 
 **Key Findings:**
 
