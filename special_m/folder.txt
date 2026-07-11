@@ -1,0 +1,6 @@
+
+D:\Sakthi sql\
+ ├── README.md
+ ├── salary_distribution_skyblue.png
+ └── skill_count_chart_skyblue.png
+ 
